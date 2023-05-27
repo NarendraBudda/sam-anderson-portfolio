@@ -1,0 +1,142 @@
+.body{
+      background-color: rgba(255, 192, 203, 0.096);
+      width: 700px;
+      margin: 0 auto;
+}
+.content{
+      width: 400px;
+      margin: auto;
+}
+.name{
+      border-color: black;
+      border-radius: 5px;
+      width:fit-content;
+      height: fit-content;
+      border-style: solid;
+      margin-left: 130px;
+      width: 70px;
+      text-align: center;
+      
+      
+      
+}
+.name h1{
+margin: auto;
+
+
+font-family: 'Caveat';
+
+}
+.content{
+      margin-bottom: -20px;
+      
+}
+img{
+      width: 250px;
+      height: 250px;
+      margin-left: 70px;
+      margin-bottom: 0%;
+}
+.block1{
+      background-color: rgba(167, 26, 26, 0.637);
+      height: 30px;
+      text-align: center;
+      border-radius: 5px;
+      
+      
+}
+.block1 p{
+      margin: 0;
+      padding-top: 5px;
+      font-weight: "dosis";
+}
+.h1{
+      font-size: 60px;
+      text-align: center;
+      margin-top: 5px;
+      margin-bottom: 5px;
+      font-family: "dosis";
+      font-weight: 550;
+}
+.p1{
+      text-align: center;
+      font-size: larger;
+}
+.line{
+      background-color: rgba(167, 26, 26, 0.637);
+      height: 10px;
+      border-radius: 5px;
+}
+.article li{
+      list-style: none;
+}
+.article a{
+      text-decoration: none;
+      color: black;
+      font-size: large;
+      text-transform: uppercase;
+      margin-left: -40px;
+      
+      
+      font-weight: bolder;
+      font-family: "dosis";
+      }
+
+
+.article h3{
+      margin-bottom: 0%;
+      
+}
+.article p{
+      margin-top: 0%;
+      color: rgb(182, 174, 174);
+      font-family:"bitter";
+      
+}
+.article h2{
+      font-size: medium;
+      font-style: normal;
+      font-weight: 20;
+      text-transform: uppercase;
+      font-family: "dosis";
+      
+}
+.project li{
+      list-style: none;
+}
+.article p{
+      margin-left: -40px;
+}
+section ul  hr{
+      margin-left: -40px;
+      font-weight: lighter;
+    
+}
+
+
+.foot li{
+      list-style: none;
+      margin-left: -40px;
+      margin-bottom: 10px;
+}
+.foot a{
+      text-decoration: none;
+      color: black;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-family: "dosis";
+      
+}
+footer a{
+     text-decoration: none;
+     color: gray;
+
+     font-family:"bitter";
+}
+.foot ul{
+      margin-left: -28px;
+}
+.line1{
+      margin-right: px;
+      width: 100px;
+}
